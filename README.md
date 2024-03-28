@@ -1,5 +1,8 @@
-
 # Advanced Sales Data Analysis
+
+## Project Dates:
+Project start month: March 2024 \
+Project end month: March 2024
 
 ## Assignment Overview
 
